@@ -1,0 +1,17 @@
+{
+ "name": "toast",
+ "title": "Toast",
+ "tier": "free",
+ "kind": "component",
+ "entry": "components/toast/toast.tsx",
+ "component": "default",
+ "exports": [],
+ "hasDefault": true,
+ "props": {
+  "title": "Title"
+ },
+ "description": "Brief confirmation for a completed background action.",
+ "categories": [
+  "feedback"
+ ]
+}

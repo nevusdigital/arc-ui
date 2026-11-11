@@ -1,0 +1,17 @@
+{
+ "name": "button",
+ "title": "Button",
+ "tier": "free",
+ "kind": "component",
+ "entry": "components/button/button.tsx",
+ "component": "Button",
+ "exports": [
+  "Button"
+ ],
+ "hasDefault": true,
+ "props": {},
+ "description": "A clear, responsive action with quiet secondary states.",
+ "categories": [
+  "actions"
+ ]
+}

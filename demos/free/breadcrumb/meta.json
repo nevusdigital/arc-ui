@@ -1,0 +1,31 @@
+{
+ "name": "breadcrumb",
+ "title": "Breadcrumb",
+ "tier": "free",
+ "kind": "component",
+ "entry": "components/breadcrumb/breadcrumb.tsx",
+ "component": "Breadcrumb",
+ "exports": [
+  "Breadcrumb"
+ ],
+ "hasDefault": false,
+ "props": {
+  "items": [
+   {
+    "label": "Home",
+    "href": "#/"
+   },
+   {
+    "label": "Projects",
+    "href": "#/"
+   },
+   {
+    "label": "Atlas redesign"
+   }
+  ]
+ },
+ "description": "Show where a page sits in a hierarchy.",
+ "categories": [
+  "disclosure"
+ ]
+}

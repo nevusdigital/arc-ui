@@ -1,0 +1,20 @@
+{
+ "name": "tabs",
+ "title": "Tabs",
+ "tier": "free",
+ "kind": "component",
+ "entry": "components/tabs/tabs.tsx",
+ "component": "Tabs",
+ "exports": [
+  "Tabs",
+  "TabsList",
+  "TabsTrigger",
+  "TabsContent"
+ ],
+ "hasDefault": false,
+ "props": {},
+ "description": "Switch between related content in the same context.",
+ "categories": [
+  "disclosure"
+ ]
+}
