@@ -2,7 +2,7 @@
 
 Espelho **não oficial** e navegável do catálogo completo do [uiarc.dev/components](https://uiarc.dev/components): **385 itens** (244 componentes + 141 blocos, free e Pro), cada um abrindo com **demo ao vivo**, documentação (uso, exemplos, quando usar/evitar, dependências, acessibilidade, movimento) e instruções de instalação.
 
-- Site: <https://nevusdigital.github.io/arc-ui/>
+- Site: <https://ryanoliveiragit.github.io/arc-ui/>
 - Original: <https://uiarc.dev/components>
 
 ## Funcionalidades
